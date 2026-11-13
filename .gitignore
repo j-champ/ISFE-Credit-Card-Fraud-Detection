@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Secrets
+.env
+
+# Raw dataset
+data/raw/*.csv
+
+# Large intermediate feature arrays
+data/processed/isfr/*.npy
+data/processed/sfr/X_*_refined.npy
+data/processed/sfr/X_*_slim.npy
+
+# Training and validation datasets (regenerable)
+data/processed/X_train.csv
+data/processed/X_val.csv
+data/processed/X_validation.csv
+data/processed/y_train.csv
+data/processed/y_val.csv
+data/processed/y_validation.csv

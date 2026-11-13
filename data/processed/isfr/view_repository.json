@@ -1,0 +1,20 @@
+{
+    "View_1_Slimmed": {
+        "description": "27 PCA components",
+        "features": 27,
+        "training_samples": 182276,
+        "validation_samples": 45570
+    },
+    "View_2_Partial": {
+        "description": "27 components + 45 interactions",
+        "features": 72,
+        "training_samples": 182276,
+        "validation_samples": 45570
+    },
+    "View_3_Full": {
+        "description": "27 components + 351 interactions",
+        "features": 378,
+        "training_samples": 182276,
+        "validation_samples": 45570
+    }
+}

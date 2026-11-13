@@ -1,0 +1,9 @@
+Parameter,Value
+Dataset,Credit Card Fraud Detection
+Test Samples,56961
+Test Fraud Cases,98
+Test Legitimate Cases,56863
+Best Overall Model,Baseline Random Forest
+Best Macro F1,0.9292686361330094
+Highest Fraud Recall Model,ISFE Adaptation
+Highest Fraud Recall,0.9183673469387755

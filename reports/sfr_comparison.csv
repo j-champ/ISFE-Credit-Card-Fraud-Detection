@@ -1,0 +1,3 @@
+Model,Features,Macro F1,Balanced Accuracy,Fraud Precision,Fraud Recall,Fraud F1
+Baseline Random Forest,30,0.9361,0.9113,0.9286,0.8228,0.8725
+SFR Adaptation,378,0.8721,0.8227,0.8793,0.6456,0.7445
